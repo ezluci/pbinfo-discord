@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+
+  "name": "pbinfo-discord-extension",
+  "version": "0.1",
+  "description": "Extension that tells pbinfo-discord which tab is active from pbinfo.",
+
+  "permissions": ["tabs", "scripting"],
+  "host_permissions": ["<all_urls>"],
+
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["https://pbinfo.ro/"]
+  }],
+
+  "background": {
+    "service_worker": "background.js"
+  }
+}

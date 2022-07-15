@@ -1,0 +1,18 @@
+﻿  achievement_manager.cpp
+  activity_manager.cpp
+  application_manager.cpp
+  core.cpp
+  image_manager.cpp
+  lobby_manager.cpp
+  network_manager.cpp
+  overlay_manager.cpp
+  relationship_manager.cpp
+  storage_manager.cpp
+  store_manager.cpp
+  types.cpp
+  user_manager.cpp
+  voice_manager.cpp
+  pbinfo-discord.cpp
+C:\Users\ez\Documents\GITHUB\pbinfo-discord\pbinfo-discord-app\pbinfo-discord\pbinfo-discord.cpp(48,76): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  pbinfo-discord.vcxproj -> C:\Users\ez\Documents\GITHUB\pbinfo-discord\pbinfo-discord-app\pbinfo-discord\pbinfo-discord.exe

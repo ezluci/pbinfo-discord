@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "node server", 0, True
