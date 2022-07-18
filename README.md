@@ -13,14 +13,11 @@ Scurtă descriere despre fiecare aplicație:
 
 Extrageți tot conținutul din fișierul ZIP într-o locație (Desktop, Documents, etc.).
 
-1) Deschiderea aplicației
-Navigați în ./pbinfo-discord-app/pbinfo-discord/ și deschideți fișierul pbinfo-discord.exe. Gata.
+1) Deschiderea aplicației - Navigați în ./pbinfo-discord-app/pbinfo-discord/ și deschideți fișierul pbinfo-discord.exe. Gata.
 
-2) Pornirea server-ului
-Navigați în ./pbinfo-discord-server/ și deschideți fișierul start_server.vbs. Gata.
+2) Pornirea server-ului - Navigați în ./pbinfo-discord-server/ și deschideți fișierul start_server.vbs. Gata.
 
-3) Instalarea extensiei de browser
-Mergeți pe pagina chrome://extensions de browser, activați Developer Mode și trageți folderul ./pbinfo-discord-extension (din ZIP-ul descărcat) în această pagină. Acum extensia de browser este instalată.
+3) Instalarea extensiei de browser - Mergeți pe pagina chrome://extensions de browser, activați Developer Mode și trageți folderul ./pbinfo-discord-extension (din ZIP-ul descărcat) în această pagină. Acum extensia de browser este instalată.
 
 
 **Troubleshooting**:
